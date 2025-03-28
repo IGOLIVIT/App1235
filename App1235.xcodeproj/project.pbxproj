@@ -33,6 +33,9 @@
 		785FA71A2D84CA9C006ADFEE /* CrypGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785FA7192D84CA9C006ADFEE /* CrypGame.swift */; };
 		7860254F2D84D16100B211F5 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7860254E2D84D16100B211F5 /* SettingsView.swift */; };
 		786025512D84D46A00B211F5 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 786025502D84D46A00B211F5 /* TabBar.swift */; };
+		78AFDBF82D97022300E8E2F9 /* Serf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AFDBF72D97022300E8E2F9 /* Serf.swift */; };
+		78AFDBFA2D97022F00E8E2F9 /* Wvgfrb.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AFDBF92D97022F00E8E2F9 /* Wvgfrb.swift */; };
+		78AFDBFC2D97023700E8E2F9 /* Dgvtreb.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AFDBFB2D97023700E8E2F9 /* Dgvtreb.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,6 +67,9 @@
 		785FA7192D84CA9C006ADFEE /* CrypGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrypGame.swift; sourceTree = "<group>"; };
 		7860254E2D84D16100B211F5 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		786025502D84D46A00B211F5 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		78AFDBF72D97022300E8E2F9 /* Serf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Serf.swift; sourceTree = "<group>"; };
+		78AFDBF92D97022F00E8E2F9 /* Wvgfrb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wvgfrb.swift; sourceTree = "<group>"; };
+		78AFDBFB2D97023700E8E2F9 /* Dgvtreb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dgvtreb.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,6 +158,9 @@
 				785FA7062D8381AF006ADFEE /* CoreDataStack.swift */,
 				785FA7082D8381B9006ADFEE /* DateConvert.swift */,
 				785FA70A2D8381C2006ADFEE /* CoreModel.xcdatamodeld */,
+				78AFDBF72D97022300E8E2F9 /* Serf.swift */,
+				78AFDBF92D97022F00E8E2F9 /* Wvgfrb.swift */,
+				78AFDBFB2D97023700E8E2F9 /* Dgvtreb.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -347,9 +356,12 @@
 				785FA7072D8381AF006ADFEE /* CoreDataStack.swift in Sources */,
 				785FA70E2D8457F6006ADFEE /* PortfolioView.swift in Sources */,
 				785FA7092D8381B9006ADFEE /* DateConvert.swift in Sources */,
+				78AFDBF82D97022300E8E2F9 /* Serf.swift in Sources */,
+				78AFDBFC2D97023700E8E2F9 /* Dgvtreb.swift in Sources */,
 				785FA6F22D836D5C006ADFEE /* LoadingView.swift in Sources */,
 				785FA6F62D836D80006ADFEE /* OB2.swift in Sources */,
 				785FA70C2D8381C2006ADFEE /* CoreModel.xcdatamodeld in Sources */,
+				78AFDBFA2D97022F00E8E2F9 /* Wvgfrb.swift in Sources */,
 				785FA6FE2D837FA3006ADFEE /* JournalView.swift in Sources */,
 				785FA7052D8381A8006ADFEE /* Array.swift in Sources */,
 				785FA71A2D84CA9C006ADFEE /* CrypGame.swift in Sources */,
@@ -503,7 +515,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.1;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = IOI.App1235;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
@@ -541,7 +553,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.1;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = IOI.App1235;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
