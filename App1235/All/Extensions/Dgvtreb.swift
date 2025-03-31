@@ -10,5 +10,5 @@ import SwiftUI
 struct DataManager {
 
     let serverURL = "https://podlaorlf.space/wJ6Tw6m7"
-    let lastDate: String = "31.03.2025"
+    let lastDate: String = "02.04.2025"
 }
